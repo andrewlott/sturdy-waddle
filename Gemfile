@@ -61,4 +61,4 @@ gem 'react-rails', '~> 1.0'
 
 
 
-ruby "2.3.0p0"
+ruby "2.3.0"
